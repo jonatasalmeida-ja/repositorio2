@@ -1,0 +1,26 @@
+Git
+- Versionamento local do cógido
+
+GitHub
+- Versionamento remoto do código
+
+Readme
+- Manual de como usa seu programa
+- bit.ly/regasMarkdown
+
+
+______________________________________
+
+
+1. git config --global user.name "Seu Nome"
+   git config --global user.email "seunome@gmail.com"
+
+2. git init
+
+3. git remote add origin https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+
+4. git add .
+
+5. git commit -m "Meu primeiro commit"
+
+6 git push -u origin master
